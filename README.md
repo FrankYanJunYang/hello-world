@@ -1,4 +1,3 @@
 # hello-world
-just hello to the world!
-hi there,
+hi there, agian
 this is frank from China, good to use github. Thanks!
